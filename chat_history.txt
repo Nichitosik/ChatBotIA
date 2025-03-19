@@ -1,0 +1,4 @@
+User: sunt ferict 
+Bot: [AI Model] Generating response for: sunt ferict 
+User: sunt furios 
+Bot: [AI Model] Generating response for: sunt furios 
